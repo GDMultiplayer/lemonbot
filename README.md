@@ -1,14 +1,14 @@
-#Lemon [discord.js]
+# Lemon [discord.js]
 
 Lemon is a Discord moderation, music and fun open-source bot.
 
-##Features:
+## Features:
 
 * Many moderation commands, such as `ban`, `kick`, `slowmode`
 * Very fast audio engine node-opus
 * High bot respond time
 
-##This bot uses:
+## This bot uses:
 
 * discord.js
 * discord.js-commando
