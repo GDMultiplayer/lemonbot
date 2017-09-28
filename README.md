@@ -13,7 +13,9 @@ Lemon is a Discord moderation, music and fun open-source bot.
 * discord.js
 * discord.js-commando
 * node-mongodb
+
 And many other libs
 
 Link: not available yet :(
+
 Official discord server: [here](https://discord.gg/rdC4CS9)
